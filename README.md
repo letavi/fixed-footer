@@ -1,4 +1,4 @@
-# How to keep footers at the bottom of the page
+# [HTML] - How to keep footers at the bottom of the page
 
 ## The problem:
 
